@@ -3,7 +3,7 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ribeiro-834719107/)
 
 
-![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPatrickRibeiro&show_icons=true&theme=dracula)
+![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPatrickRibeiro&theme=blue-green)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatrickRibeiro)](https://github.com/DevPatrickRibeiro/github-readme-stats) -->
@@ -20,6 +20,8 @@
 <img style="display: flex; margin-right: 10px;" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 <img style="display: flex; margin-right: 10px;" align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  
+ <img style="display: flex; margin-right: 10px;" align="center" alt="Json Web Tokens" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </div><br/>
 
 <div style="display: flex;"> <br/>
